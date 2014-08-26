@@ -1,0 +1,28 @@
+{
+  "name": "mdock-cache",
+  "version": "1.0.0",
+  "description": "An in memory mdock cache to handle multi-request docker run commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/mdock-cache.git"
+  },
+  "keywords": [
+    "mdock",
+    "cache",
+    "docker",
+    "cluster"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/mdock-cache/issues"
+  },
+  "homepage": "https://github.com/binocarlos/mdock-cache",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
