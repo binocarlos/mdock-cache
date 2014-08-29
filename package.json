@@ -1,6 +1,6 @@
 {
   "name": "mdock-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An in memory mdock cache to handle multi-request docker run commands",
   "main": "index.js",
   "scripts": {
